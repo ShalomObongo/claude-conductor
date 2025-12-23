@@ -1,0 +1,20 @@
+{
+  "name": "claude-conductor",
+  "version": "0.1.0",
+  "description": "Context-Driven Development plugin that enables structured planning and implementation workflows with persistent project context",
+  "author": {
+    "name": "Claude Conductor Team",
+    "email": "conductor@example.com"
+  },
+  "keywords": [
+    "workflow",
+    "planning",
+    "context",
+    "methodology",
+    "project-management"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/your-username/claude-conductor"
+  }
+}
