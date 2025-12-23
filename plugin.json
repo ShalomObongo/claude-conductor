@@ -13,8 +13,5 @@
     "methodology",
     "project-management"
   ],
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/ShalomObongo/claude-conductor"
-  }
+  "repository": "https://github.com/ShalomObongo/claude-conductor"
 }
