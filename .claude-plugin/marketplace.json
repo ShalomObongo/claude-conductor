@@ -7,7 +7,7 @@
   "plugins": [
     {
       "name": "claude-conductor",
-      "source": ".",
+      "source": "./",
       "description": "Context-Driven Development plugin that enables structured planning and implementation workflows with persistent project context",
       "version": "0.1.0",
       "author": {
@@ -15,10 +15,7 @@
         "email": "conductor@example.com"
       },
       "homepage": "https://github.com/ShalomObongo/claude-conductor",
-      "repository": {
-        "type": "git",
-        "url": "https://github.com/ShalomObongo/claude-conductor"
-      },
+      "repository": "https://github.com/ShalomObongo/claude-conductor",
       "license": "Apache-2.0",
       "keywords": [
         "workflow",
