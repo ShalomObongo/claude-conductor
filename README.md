@@ -27,7 +27,7 @@ Install the Claude Conductor plugin:
 
 ```bash
 # Clone the repository
-git clone https://github.com/your-username/claude-conductor.git
+git clone https://github.com/ShalomObongo/claude-conductor.git
 cd claude-conductor
 
 # Link to Claude Code plugins directory
@@ -316,8 +316,8 @@ Conductor is Git-aware:
 ## Contributing
 
 Contributions welcome! This plugin is part of the Conductor project:
-- GitHub: https://github.com/your-username/claude-conductor
-- Issues: https://github.com/your-username/claude-conductor/issues
+- GitHub: https://github.com/ShalomObongo/claude-conductor
+- Issues: https://github.com/ShalomObongo/claude-conductor/issues
 
 ## License
 
