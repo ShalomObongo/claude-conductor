@@ -23,7 +23,21 @@ By treating context as a managed artifact alongside your code, you transform you
 
 ## Installation
 
-Install the Claude Conductor plugin:
+### From Marketplace (Recommended)
+
+Install directly from the Claude Code plugin marketplace:
+
+```bash
+# Add the marketplace
+/plugin marketplace add ShalomObongo/claude-conductor
+
+# Install the plugin
+/plugin install claude-conductor@conductor
+```
+
+### From Source
+
+Alternatively, install from source:
 
 ```bash
 # Clone the repository
